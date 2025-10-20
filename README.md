@@ -49,8 +49,8 @@ A modern and fully responsive **personal portfolio website** built to showcase m
 
 | Hero Section | Projects Grid |
 |--------------|---------------|
-| ![Hero]<img width="959" height="443" alt="image" src="https://github.com/user-attachments/assets/1602fb88-b965-48d9-a5c1-4a6f67998980" />
- | ![Projects](<img width="959" height="441" alt="image" src="https://github.com/user-attachments/assets/e05ee6cf-0a0e-45d8-bb0b-d9799dd69f5b" />
+|<img width="959" height="443" alt="image" src="https://github.com/user-attachments/assets/1602fb88-b965-48d9-a5c1-4a6f67998980" />
+ |<img width="959" height="441" alt="image" src="https://github.com/user-attachments/assets/e05ee6cf-0a0e-45d8-bb0b-d9799dd69f5b" />
  |
 
 ---
