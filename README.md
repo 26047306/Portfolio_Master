@@ -3,7 +3,8 @@
 
 A modern and fully responsive **personal portfolio website** built to showcase my **skills**, **projects**, **experience**, and **contact information** as a B.Tech (CSE - Data Science) student and aspiring **Software Developer**.
 
-![Portfolio Preview](assets/images/profile.png)
+<img width="959" height="443" alt="image" src="https://github.com/user-attachments/assets/05269168-da21-4341-9120-af02c1a8ba9f" />
+
 
 ---
 
