@@ -3,7 +3,7 @@
 
 A modern and fully responsive **personal portfolio website** built to showcase my **skills**, **projects**, **experience**, and **contact information** as a B.Tech (CSE - Data Science) student and aspiring **Software Developer**.
 
-<img width="959" height="443" alt="image" src="https://github.com/user-attachments/assets/05269168-da21-4341-9120-af02c1a8ba9f" />
+
 
 
 ---
@@ -49,7 +49,8 @@ A modern and fully responsive **personal portfolio website** built to showcase m
 
 | Hero Section | Projects Grid |
 |--------------|---------------|
-| ![Hero](https://placehold.co/400x200?text=Hero+Preview) | ![Projects](https://placehold.co/400x200?text=Projects+Preview) |
+| ![Hero](<img width="959" height="443" alt="image" src="https://github.com/user-attachments/assets/05269168-da21-4341-9120-af02c1a8ba9f" />) | ![Projects](<img width="959" height="441" alt="image" src="https://github.com/user-attachments/assets/e05ee6cf-0a0e-45d8-bb0b-d9799dd69f5b" />
+) |
 
 ---
 
